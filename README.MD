@@ -32,4 +32,24 @@ Tuned AdaBoost,0.9170
 Random Forest,0.8972
 KNN,0.8753
 
+🔍 Explainability (SHAP Analysis)
+To ensure the model is reliable for healthcare applications, SHAP analysis was conducted to identify global feature importance. Gravity-aligned acceleration features (e.g., angle(X, gravityMean)) emerged as the most discriminative signals for distinguishing between static postures and dynamic movements.
+
+📁 Project Structure
+HAR_Analysis_Pipeline.ipynb: Full implementation including EDA, SMOTE, Feature Selection, and Model Training.
+
+🛠 Installation & Usage
+
+# Clone the repository
+git clone https://github.com/yourusername/HAR-SMOTE-SHAP.git
+
+# Install dependencies
+pip install -r requirements.txt
+
+
+Academic Note: This work was conducted as part of the M.Sc. in Artificial Intelligence program at Gebze Technical University, Department of Computer Engineering.
+
+Author: Hozan Baydu (AI Engineer)
+
+
 
