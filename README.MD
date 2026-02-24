@@ -1,7 +1,6 @@
-## 📖 Research Publication
 For detailed methodology, experimental results, and performance metrics, please refer to the full paper:
 
-> **Hozan Baydu ** *"Performance Analysis of Human Activity Recognition using UCI HAR Dataset: An Approach with SMOTE and Feature Selection"*. 
+> **Hozan Baydu** *"Performance Analysis of Human Activity Recognition using UCI HAR Dataset: An Approach with SMOTE and Feature Selection"*. 
 > **Full Paper:** [ResearchGate Link](https://www.researchgate.net/publication/401153150_Performance_Analysis_of_Human_Activity_Recognition_using_UCI_HAR_Dataset_An_Approach_with_SMOTE_and_Feature_Selection)
 
 Performance Analysis of Human Activity Recognition (HAR) using UCI Dataset
