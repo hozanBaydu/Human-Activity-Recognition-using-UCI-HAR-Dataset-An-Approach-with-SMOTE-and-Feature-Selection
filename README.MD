@@ -48,8 +48,6 @@ HAR_Analysis_Pipeline.ipynb: Full implementation including EDA, SMOTE, Feature S
 # Clone the repository
 git clone https://github.com/hozanBaydu/Human-Activity-Recognition-using-UCI-HAR-Dataset-An-Approach-with-SMOTE-and-Feature-Selection
 
-# Install dependencies
-pip install -r requirements.txt
 
 
 Academic Note: This work was conducted as part of the M.Sc. in Artificial Intelligence program at Gebze Technical University, Department of Computer Engineering.
